@@ -1,0 +1,9 @@
+
+
+_G.InvisiblityKey = "x"
+
+_G.JumpScareKey = "b"
+
+_G.WalkingSpeed = 60
+
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Nosssa/NossLock/main/DaMimicAlphaTest"))();
